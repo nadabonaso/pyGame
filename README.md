@@ -1,5 +1,5 @@
 # pyGame
 
-## HyperionDev Software Engineering Bootcamp
+### HyperionDev Software Engineering Bootcamp
 
-My first game created in Python :)
+My first game created in Python using Pygame :)
